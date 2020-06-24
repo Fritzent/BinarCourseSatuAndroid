@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">BinarCoursePengenalan</string>
     <string name="app_title">Binar Academy</string>
+    <string name="qoutes_text">\"Action is the foundational key to all success.\"</string>
+    <string name="qoutes_person">~Pablo Picasso</string>
+
 </resources>

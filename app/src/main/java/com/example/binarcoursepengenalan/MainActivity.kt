@@ -3,7 +3,6 @@ package com.example.binarcoursepengenalan
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import androidx.appcompat.app.ActionBar
 
 class MainActivity : AppCompatActivity() {
 
@@ -15,12 +14,12 @@ class MainActivity : AppCompatActivity() {
         supportActionBar?.hide()
 
         //ini untuk ngehubungin xml ke kotlinnya
-        val qoutesText = findViewById<TextView>(R.id.QuotesText);
-        val qoutesPerson = findViewById<TextView>(R.id.QuotesPerson);
+        val qoutesText = findViewById<TextView>(R.id.QuotesText)
+        val qoutesPerson = findViewById<TextView>(R.id.QuotesPerson)
 
         //ini buat ngatur textview nya
-        qoutesText.setText("\"Action is the foundational key to all success.\"")
-        qoutesPerson.setText("~Pablo Picasso")
+        qoutesText.text = resources.getString(R.string.qoutes_text)
+        qoutesPerson.text = resources.getString(R.string.qoutes_person)
 
         fun newFunction(){
             //ini new function
