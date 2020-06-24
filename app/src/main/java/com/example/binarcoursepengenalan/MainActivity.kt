@@ -33,4 +33,6 @@ class MainActivity : AppCompatActivity() {
 
     //nambah kedua
 
+    // ini commentan ku coba bikin conflict ndra
+
 }
