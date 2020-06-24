@@ -27,8 +27,6 @@ class MainActivity : AppCompatActivity() {
             //ini cari untuk membuat sebuah function baru di kotlin
         }
 
-        //ini comment ku
-
     }
 
     //nyoba nambah gan
