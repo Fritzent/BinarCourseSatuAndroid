@@ -35,4 +35,6 @@ class MainActivity : AppCompatActivity() {
 
     // ini commentan ku coba bikin conflict ndra
 
+    //nambah dari Andra di branch remote
+
 }
