@@ -40,4 +40,6 @@ class MainActivity : AppCompatActivity() {
 
     //tambah tag di master
 
+    //Andra nambah tag lagi di master
+
 }
