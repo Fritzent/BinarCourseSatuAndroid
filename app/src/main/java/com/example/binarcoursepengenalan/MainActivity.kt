@@ -30,4 +30,7 @@ class MainActivity : AppCompatActivity() {
         //ini comment ku
 
     }
+
+    //nyoba nambah gan
+    
 }
