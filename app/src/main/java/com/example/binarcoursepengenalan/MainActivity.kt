@@ -32,5 +32,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     //nyoba nambah gan
-    
+
+    //nambah kedua
+
 }
